@@ -1,0 +1,19 @@
+[
+  "roads": [
+    {
+      "id": "1",
+      "signalizers": [ 
+        {
+          "id": "1",
+          "name": "Pedestrian 1",
+          "state": "Green"
+        },
+        {
+          "id": "2",
+          "name": "Car 1",
+          "state": "Red"
+        }
+      ]
+    }
+  ]
+]
