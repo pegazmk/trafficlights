@@ -2,18 +2,39 @@
   "roads": [
     {
       "id": "1",
-      "signalizers": [ 
-        {
-          "id": "1",
-          "name": "Pedestrian 1",
-          "state": "Green"
-        },
-        {
-          "id": "2",
-          "name": "Car 1",
-          "state": "Red"
-        }
-      ]
+      "name": "N"
+    },
+    {
+      "id": "2",
+      "name": "S"
+    },
+    {
+      "id": "3",
+      "name": "W"
+    },
+    {
+      "id": "4",
+      "name": "E"
     }
-  ] 
+  ],
+  "signalizers": [ 
+    {
+      "id": "11",
+      "name": "Pedestrian 1",
+      "state": "Green",
+      "road": "1"
+    },
+    {
+      "id": "12",
+      "name": "Car 1",
+      "state": "Red",
+      "road": "1"
+    },
+    {
+      "id": "21",
+      "name": "Pedestrian 2",
+      "state": "Green",
+      "road": "2"
+    }
+  ]
 }
