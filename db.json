@@ -21,13 +21,13 @@
     {
       "id": "11",
       "name": "Pedestrian 1",
-      "state": "Green",
+      "state": "Red",
       "road": "1"
     },
     {
       "id": "12",
       "name": "Car 1",
-      "state": "Red",
+      "state": "Green",
       "road": "1"
     },
     {
