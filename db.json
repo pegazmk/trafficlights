@@ -35,6 +35,48 @@
       "name": "Pedestrian 2",
       "state": "Green",
       "road": "2"
+    },
+    {
+      "id": "22",
+      "name": "Car 2",
+      "state": "Red",
+      "road": "2"
+    },
+    {
+      "id": "23",
+      "name": "Car 6 Right",
+      "state": "Red",
+      "road" : "2"
+    },
+    {
+      "id": "31",
+      "name": "Pedestrian 3",
+      "state": "Green",
+      "road": "3"
+    },
+    {
+      "id": "32",
+      "name": "Car 1",
+      "state": "Red",
+      "road": "3"
+    },
+    {
+      "id": "41",
+      "name": "Pedestrian 4",
+      "state": "Green",
+      "road": "4"
+    },
+    {
+      "id": "42",
+      "name": "Car 4",
+      "state": "Red",
+      "road": "4"
+    },
+    {
+      "id": "43",
+      "name": "Car 5 Right",
+      "state": "Red",
+      "road" : "4"
     }
   ]
 }
